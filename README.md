@@ -12,3 +12,7 @@ TFIDF - статистическая мера для оценки важност
 
 ## Dimonds
 EDA и простая модель для датасета diamonds пакета seaborn
+
+
+## Дашборд по погоде за последний год Новосибирск
+https://datalens.yandex/wxbxqn39qe46f?_share_link=public
