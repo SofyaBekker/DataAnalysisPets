@@ -23,4 +23,4 @@
 - **Столбчатая диаграмма:** распределение осадков по дням
 
 ## 🔗 Ссылка на дашборд
-[Ссылка на опубликованный дашборд в Yandex DataLens](https://datalens.yandex/wxbxqn39qe46f?_no_controls=1)
+[Ссылка дашборд в Yandex DataLens](https://datalens.yandex/wxbxqn39qe46f?_no_controls=1)
