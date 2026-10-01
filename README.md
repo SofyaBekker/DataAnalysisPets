@@ -15,4 +15,4 @@ EDA и простая модель для датасета diamonds пакета
 
 
 ## Дашборд по погоде за последний год Новосибирск
-https://datalens.yandex/wxbxqn39qe46f?_share_link=public
+Интерактивный BI-отчёт с анализом температурных режимов и осадков за год. [ссылка](https://datalens.yandex/wxbxqn39qe46f?_share_link=public)
